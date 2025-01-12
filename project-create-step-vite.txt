@@ -1,0 +1,14 @@
+https://vite.dev/guide/
+
+Getting Started > Javascipt > vanilla > https://stackblitz.com/edit/vitejs-vite-xurgpjdu?file=index.html&terminal=dev
+
+open terminal vs code
+we need to use node package manager
+install node js 
+npm create vite@latest
+project name
+framework > vanilla > javascript
+goto project directory - cd dir name
+npm install
+npm run dev
+
