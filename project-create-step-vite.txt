@@ -12,3 +12,21 @@ goto project directory - cd dir name
 npm install
 npm run dev
 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template
+
+<script type="module" src="main.js"></script>
+type="module" ES Javascript code know when you define this
+
+
+showProductContainer`place cursor and ctrl+space+enter auto suggestion for import the file if this function export from another file`(products);
+
+    
+shorthand property names
+If you provide only the variable name (id, quantity, price), JavaScript automatically creates properties with the same names as the variable names and assigns the variable values to them.
+let id = 101;
+let quantity = 2;
+let price = 50;
+
+let updateCart = { id, quantity, price };
+console.log(updateCart);
+
