@@ -30,3 +30,5 @@ let price = 50;
 let updateCart = { id, quantity, price };
 console.log(updateCart);
 
+https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentElement
+

@@ -5,7 +5,7 @@
         "category": "Computers",
         "brand": "Dell",
         "price": 999.99,
-        "stock": 50,
+        "stock": 5,
         "image": "../images/lapi.png",
         "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display."
     },
